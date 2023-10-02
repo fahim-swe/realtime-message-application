@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\React Project\\backend\\security.Imp\\security.Imp.csproj": {}
+    "d:\\React Project\\backend\\security.Imp\\security.Imp.csproj": {}
   },
   "projects": {
-    "D:\\React Project\\backend\\security.Imp\\security.Imp.csproj": {
+    "d:\\React Project\\backend\\security.Imp\\security.Imp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\React Project\\backend\\security.Imp\\security.Imp.csproj",
+        "projectUniqueName": "d:\\React Project\\backend\\security.Imp\\security.Imp.csproj",
         "projectName": "security.Imp",
-        "projectPath": "D:\\React Project\\backend\\security.Imp\\security.Imp.csproj",
+        "projectPath": "d:\\React Project\\backend\\security.Imp\\security.Imp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\React Project\\backend\\security.Imp\\obj\\",
+        "outputPath": "d:\\React Project\\backend\\security.Imp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

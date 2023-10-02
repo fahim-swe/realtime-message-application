@@ -1,0 +1,15 @@
+D:\React Project\backend\repository.Imp\bin\Debug\net6.0\repository.Imp.deps.json
+D:\React Project\backend\repository.Imp\bin\Debug\net6.0\repository.Imp.dll
+D:\React Project\backend\repository.Imp\bin\Debug\net6.0\repository.Imp.pdb
+D:\React Project\backend\repository.Imp\bin\Debug\net6.0\repository.dll
+D:\React Project\backend\repository.Imp\bin\Debug\net6.0\repository.pdb
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.csproj.AssemblyReference.cache
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.GeneratedMSBuildEditorConfig.editorconfig
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.AssemblyInfoInputs.cache
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.AssemblyInfo.cs
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.csproj.CoreCompileInputs.cache
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.csproj.CopyComplete
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.dll
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\refint\repository.Imp.dll
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\repository.Imp.pdb
+D:\React Project\backend\repository.Imp\obj\Debug\net6.0\ref\repository.Imp.dll
